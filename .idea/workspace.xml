@@ -1,0 +1,652 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="641fcb71-f573-47ae-b6fa-c23401d7b174" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FindInProjectRecents">
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/package.json" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="10.4.0" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="641fcb71-f573-47ae-b6fa-c23401d7b174" name="Default Changelist" comment="" />
+      <created>1549209177908</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549209177908</updated>
+      <workItem from="1549209180656" duration="335000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="335000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <layout>
+      <window_info id="npm" side_tool="true" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32891566" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="uml://JavaScript-modules-diagram//Users/sachint-thakur/WebstormProjects/untitled">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$</OriginalElement>
+          <nodes>
+            <node x="677.0" y="864.0">;;;;;;;</node>
+            <node x="903.0" y="1268.0">;;;;;;;;;;;;;;;;</node>
+            <node x="1057.0" y="777.0">;;</node>
+            <node x="986.0" y="1152.0">;</node>
+            <node x="543.0" y="2129.0">;;;;;;;;;;</node>
+            <node x="290.0" y="732.0">;;;;;</node>
+            <node x="1614.0" y="762.0" />
+            <node x="690.0" y="1121.0">;;;;</node>
+            <node x="1231.0" y="362.0">;;;;;;;;;;;</node>
+            <node x="177.0" y="1571.0">;;;;;;;;;</node>
+            <node x="1067.0" y="1868.0">;;;</node>
+            <node x="1141.0" y="1262.0">;;;;;;;;;;;;;;;;;;</node>
+            <node x="910.0" y="2010.0">;;;;;;;;;;;;;;;;;</node>
+            <node x="81.0" y="1906.0">accepts</node>
+            <node x="569.0" y="1854.0">array-flatten</node>
+            <node x="192.0" y="2110.0">body-parser</node>
+            <node x="1257.0" y="1852.0">content-disposition</node>
+            <node x="896.0" y="2506.0">content-type</node>
+            <node x="1411.0" y="1301.0">cookie</node>
+            <node x="1510.0" y="1216.0">sign;</node>
+            <node x="745.0" y="1371.0">debug</node>
+            <node x="655.0" y="1516.0">depd</node>
+            <node x="1570.0" y="1490.0">encodeurl</node>
+            <node x="1390.0" y="1106.0">escape-html</node>
+            <node x="1304.0" y="2376.0">etag</node>
+            <node x="175.0" y="2303.0">$APPLICATION_CONFIG_DIR$/javascript/nodejs/10.4.0/node-typings/node_modules/@types/node/events.d.ts#EventEmitter#112;</node>
+            <node x="526.0" y="909.0">express</node>
+            <node x="1545.0" y="1364.0">finalhandler</node>
+            <node x="13.0" y="1771.0">fresh</node>
+            <node x="825.0" y="703.0">$APPLICATION_CONFIG_DIR$/javascript/nodejs/10.4.0/node-typings/node_modules/@types/node/fs.d.ts#readFileSync#68294;</node>
+            <node x="572.0" y="1451.0">http</node>
+            <node x="567.0" y="655.0">http-errors</node>
+            <node x="337.0" y="2125.0">inherits</node>
+            <node x="706.0" y="2464.0">merge-descriptors</node>
+            <node x="753.0" y="1481.0">methods</node>
+            <node x="64.0" y="438.0">ms</node>
+            <node x="201.0" y="1145.0">$APPLICATION_CONFIG_DIR$/javascript/nodejs/10.4.0/node-typings/node_modules/@types/node/net.d.ts#isIP#11832;</node>
+            <node x="559.0" y="1137.0">on-finished</node>
+            <node x="779.0" y="1935.0">parseurl</node>
+            <node x="1102.0" y="1038.0">$APPLICATION_CONFIG_DIR$/javascript/nodejs/10.4.0/node-typings/node_modules/@types/node/path.d.ts#resolve#1959;</node>
+            <node x="169.0" y="1406.0">path-to-regexp</node>
+            <node x="348.0" y="1971.0">proxy-addr</node>
+            <node x="1306.0" y="2111.0">qs</node>
+            <node x="1116.0" y="2491.0">querystring</node>
+            <node x="7.0" y="1476.0">range-parser</node>
+            <node x="1396.0" y="1977.0">$APPLICATION_CONFIG_DIR$/javascript/nodejs/10.4.0/node-typings/node_modules/@types/node/buffer.d.ts#Buffer#170;</node>
+            <node x="1440.0" y="1802.0">mime;</node>
+            <node x="362.0" y="2426.0">serve-static</node>
+            <node x="989.0" y="1798.0">setprototypeof</node>
+            <node x="397.0" y="1600.0">statuses</node>
+            <node x="2244.0" y="0.0">$APPLICATION_CONFIG_DIR$/javascript/nodejs/10.4.0/node-typings/node_modules/@types/node/stream.d.ts#Writable#5368;</node>
+            <node x="204.0" y="990.0">tty</node>
+            <node x="0.0" y="1632.0">type-is</node>
+            <node x="99.0" y="784.0">util</node>
+            <node x="1083.0" y="1728.0">utils-merge</node>
+            <node x="1784.0" y="28.0">uubench</node>
+            <node x="1613.0" y="1602.0">vary</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source=";;" target=";;">
+              <point x="-4.975534105240882" y="0.49402466293172154" />
+              <point x="-4.975534105240883" y="0.494024662931718" />
+            </edge>
+            <edge source=";;;;;;;;;" target="depd">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";;;;;;;;;;;;;;;;;;" target=";;;;;;;;;;;;;;;;;">
+              <point x="-15.70138941293186" y="0.0" />
+              <point x="-15.701389412931874" y="0.0" />
+            </edge>
+            <edge source=";" target="setprototypeof">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";;;;;;;;;;;;;;;;;;" target="$APPLICATION_CONFIG_DIR$/javascript/nodejs/10.4.0/node-typings/node_modules/@types/node/buffer.d.ts#Buffer#170;">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";;;;;;;;;;" target=";;;;;;;;;;;;;;;;">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";;;;;;;;;;;;;;;;" target="depd">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";;;;" target=";">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";;;;;" target="depd">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";;;;;" target="on-finished">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";;;;;;;;;;;;;;;;;;" target="cookie">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";;;;;;;;;;;;;;;;" target=";;;">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";;;;;" target=";">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";;;;;;;;;;" target="$APPLICATION_CONFIG_DIR$/javascript/nodejs/10.4.0/node-typings/node_modules/@types/node/events.d.ts#EventEmitter#112;">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";;;;;;;;;" target="utils-merge">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";;;;;;;;;;;;;;;;;;" target="mime;">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";;" target="sign;">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";;;;;;;;;;;;;;;;;;" target="on-finished">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";;;;;;;;;;;;;;;;;;" target="http">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";;;;;;;;;;;;;;;;" target="setprototypeof">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";;;;;;;;;;;;;;;;;" target="array-flatten">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";;" target="debug">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";;;;;;;;;;;;;;;;;" target="content-type">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";;;;;;;;;;;;;;;;" target="methods">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";;" target="cookie">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";;" target="uubench">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";;" target=";;;;;">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";;;;;;;;;;;;;;;;" target="finalhandler">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";;;;;;;" target="express">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";;;;" target="setprototypeof">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";;;;;;;;;" target="fresh">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";;;;;;;;;;;" target="">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";;;;;;;;;;;;;;;;;;" target="content-disposition">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";;;;;;;" target=";;">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";;;;;;;;;;;;;;;;" target="utils-merge">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";" target=";">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";;;;;;;;;;;;;;;;;" target="mime;">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";;;;;;;;;;" target=";;;;">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";;;;;;;;;;;;;;;;;" target="$APPLICATION_CONFIG_DIR$/javascript/nodejs/10.4.0/node-typings/node_modules/@types/node/buffer.d.ts#Buffer#170;">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";;;;;;;;;" target="proxy-addr">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";;;;;;;;;" target="accepts">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";" target="express">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";;;;" target="$APPLICATION_CONFIG_DIR$/javascript/nodejs/10.4.0/node-typings/node_modules/@types/node/fs.d.ts#readFileSync#68294;">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";;" target="$APPLICATION_CONFIG_DIR$/javascript/nodejs/10.4.0/node-typings/node_modules/@types/node/fs.d.ts#readFileSync#68294;">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";;;;;;;;;;;;;;;;" target="array-flatten">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";;;;;;;;;;;;;;;;" target=";;;;;;;;;">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";;;;;;;" target=";">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";;;;;;;;;;" target=";;;;;;;;;;;;;;;;;;">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";;;;;" target="debug">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";;;;;" target="$APPLICATION_CONFIG_DIR$/javascript/nodejs/10.4.0/node-typings/node_modules/@types/node/fs.d.ts#readFileSync#68294;">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";;;" target="parseurl">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";;;;;;;;;;;;;;;;;" target="depd">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";;;;" target="statuses">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";;;;;;;" target="http-errors">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";;;;;;;;;" target="type-is">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";;;;;;;;;;;;;;;;" target="$APPLICATION_CONFIG_DIR$/javascript/nodejs/10.4.0/node-typings/node_modules/@types/node/path.d.ts#resolve#1959;">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";;;;" target="debug">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";;;;;;;;;;;;;;;;;;" target="utils-merge">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";;;;;;;;;" target="debug">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";;;;" target="array-flatten">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";;;;;;;" target=";;;;;">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";;;;;;;;;;;;;;;;;" target="content-disposition">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";;" target=";;;;;;;;;;;">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";;;;;;;;;;" target=";;;">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";;;;;;;;;;;;;;;;" target="http">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";;;;;;;;;" target="$APPLICATION_CONFIG_DIR$/javascript/nodejs/10.4.0/node-typings/node_modules/@types/node/net.d.ts#isIP#11832;">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";;;;;;;;;" target=";;;;">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";;;;;;;;;" target="array-flatten">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";;;;;;;;;" target=";;">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";" target=";;;;;;;;;;">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";;;;;;;;;;;" target="$APPLICATION_CONFIG_DIR$/javascript/nodejs/10.4.0/node-typings/node_modules/@types/node/fs.d.ts#readFileSync#68294;">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";;;;" target="$APPLICATION_CONFIG_DIR$/javascript/nodejs/10.4.0/node-typings/node_modules/@types/node/path.d.ts#resolve#1959;">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";;;;;;;;;;;;;;;;;;" target="escape-html">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";;;;;;;;;;" target="merge-descriptors">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";" target="$APPLICATION_CONFIG_DIR$/javascript/nodejs/10.4.0/node-typings/node_modules/@types/node/stream.d.ts#Writable#5368;">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";;;;;;;;;;;;;;;;;;" target="statuses">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";;;" target="qs">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";;;;" target="methods">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";;;;;;;;;;;;;;;;" target=";;;;;;;;;;;;;;;;;">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";;;;;;;;;;;;;;;;;;" target="vary">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";;;;;;;;;;" target="serve-static">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";;;;;;;;;;;;;;;;" target=";">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";;;;;;;;;;;" target="$APPLICATION_CONFIG_DIR$/javascript/nodejs/10.4.0/node-typings/node_modules/@types/node/path.d.ts#resolve#1959;">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";;;;;;;;;;;;;;;;;;" target="$APPLICATION_CONFIG_DIR$/javascript/nodejs/10.4.0/node-typings/node_modules/@types/node/path.d.ts#resolve#1959;">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";" target="ms">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";;;;;;;;;" target="http">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";;;;;" target="$APPLICATION_CONFIG_DIR$/javascript/nodejs/10.4.0/node-typings/node_modules/@types/node/net.d.ts#isIP#11832;">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";;;;;;;;;" target="range-parser">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";;;;;" target="tty">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";;;;;" target="util">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";;;;;;;;;;;;;;;;;;" target="sign;">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";;;;;;;;;;;;;;;;" target=";;;;">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";;;;;;;;;;;;;;;;;;" target="depd">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";;" target=";">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";;;;;;;;;;;;;;;;;" target="qs">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";;;;;;;;;;" target="body-parser">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";;;;;;;;;" target="setprototypeof">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";" target=";;;;;;;;;;;">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";;;;;" target="">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";;;;;;;" target="$APPLICATION_CONFIG_DIR$/javascript/nodejs/10.4.0/node-typings/node_modules/@types/node/path.d.ts#resolve#1959;">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";;;;;;;;;;;;;;;;;" target="etag">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";;;;;;;;;;;;;;;;;" target="querystring">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";;;;;;;;;;" target=";;;;;;;;;">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";;;;;;;;;;;;;;;;;" target="proxy-addr">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";;;;;;;;;" target="methods">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";;" target="path-to-regexp">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";;;;" target="inherits">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";" target=";;;;;">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";;;;" target=";;">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";;;;;;;;;;;;;;;;;;" target="encodeurl">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";;;;;;;;;" target="parseurl">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";;;" target="utils-merge">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";;;;;;;;;;;;;;;;" target="debug">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source=";;;;" target="depd">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.39017577013348625" x="1085.9195022825807" y="1294.3836935188256" />
+          <SelectedNodes />
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <VISIBILITY>Details</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
